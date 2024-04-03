@@ -80,6 +80,12 @@ Assembly Trials Results:
 
 ![Summary](https://github.com/ADichoso/LBYARCHMCO2/assets/39649018/4ade42c8-63cc-40b8-b23f-a1af7c2299c2)
 
+## Correctness of kernels
+The values, as seen in the end of each trial result, shows that both kernels gave the correct answer, which can be found at the start of each trial.
+
+Below is the code that is used for validation of correctness
+![image](https://github.com/ADichoso/LBYARCHMCO2/assets/39649018/162bc85b-847d-4c4e-9924-e64e41ea6767)
+
 ## Analysis of Results
 
 As observed from the results, the implementation of the project specifications generally performs better when the project is set in debug mode.
