@@ -1,6 +1,9 @@
 # LBYARCHMCO2
 ## Background
 This Github Project aims to explore how to integrate assembly language using C. Additionally, the difference of execution times in C and assembly are explored, both in debug and release mode.
+Project Group:
+Aaron Gabrielle Dichoso
+Luis Miguel Razonn
 
 ## Setup
 An empty Visual Studio project was created for the testing of assembly and C programs and comparison of their execution times. 
